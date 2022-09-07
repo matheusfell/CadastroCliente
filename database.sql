@@ -26,6 +26,10 @@ BEGIN
 
 END
 
+
+
+
+
 ---Segunda Procedure para Alterar cliente
 CREATE PROCEDURE usbClienteAlterar
 	@IdCliente int,
@@ -52,6 +56,9 @@ BEGIN
 END
 
 ---Esta Procedure fara com que altere o cadastro do cliente de acordo com o IdCliente informado
+
+
+
 
 
 ---Terceira Procedure para Excluir cliente
@@ -91,6 +98,8 @@ BEGIN
 
 END
 ---Essa procedure fara consultar o cliente pelo id informado
+
+
 
 
 
